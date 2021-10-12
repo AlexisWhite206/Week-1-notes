@@ -1,0 +1,15 @@
+A software stack is a "set of components that work together to support the execution of the application" 
+LAMP is the most famous of these, most of the internet is LAMP= Linux Apache MySQL PHP/ Perl/ Python
+Apache is built on linux, a patchwork of code. 
+http= web address/protocol
+Protocol is an agreed upon set of rules or standards
+Only talk up and down the software stack
+linux to linux at the server level
+MySQL is a relational database management system based on Structured Query Language
+Linux vs UNIX... source vs open source linux was always meant to be collaborative, unix more flexible and free
+mac = propritary code
+Command line tools (example drop down menus) scripts, programs and libraries that have been created with a specific purpose
+Little by little every day, join slack for instant communication
+Database is anything that stores related data ex; spreadsheet, contact list etc
+used for strong business transactions, scientific, medical and content mgmt for web pages
+Relational databases solve problems(redundancy, scalability, comparing and relating data from different nodes) like hierarchal and network designs
