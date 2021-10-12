@@ -1,0 +1,9 @@
+All relational databases share the same design principles:
+entities/tables = what everything must be broken into
+columns = attributes that describe the entity
+primary key = what every entity has that uniquely identifies each row (can be shown in different tables to show a relationship)
+a foreign key is a primary key represented in another table (they are the only repeated values allowed in the relational database)
+ONLY three types of relationships between entities in a relational database: one to one, one to many, many to many
+Normalazition is the series and principles/strategies that help refine database design. broken into 3 forms
+Slack info
+SLDC STages: ANalysis, requirements, design and prototyping, software development, testing, deploymenmt, maintenance and updates
